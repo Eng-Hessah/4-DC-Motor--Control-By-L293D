@@ -4,20 +4,20 @@
 This project showcases how to drive four DC motors using an Arduino Uno and an L293D driver. The system manages motor directions through the digital pins to execute a programmed sequence of forward, reverse, and turning motions
 
 ## Project Features
- -Automated control of four DC motors simultaneously
- -Precise direction management via the L293D driver 
- -Programmable sequence for forward, reverse, and turning motions
- -Designed and thoroughly tested using Tinkercad simulation 
+ - Automated control of four DC motors simultaneously
+ - Precise direction management via the L293D driver 
+ - Programmable sequence for forward, reverse, and turning motions
+ - Designed and thoroughly tested using Tinkercad simulation 
 
 ## Components Used
 
 
- -Arduino Uno
- -L293D Motor Driver 
- -Breadboard
- -4 x DC Motors
- -9V Battery
- -Jumper Wires
+ - Arduino Uno
+ - L293D Motor Driver 
+ - Breadboard
+ - 4 x DC Motors
+ - 9V Battery
+ - Jumper Wires
 
 ## Circuit Diagram
 
