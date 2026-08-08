@@ -23,4 +23,5 @@ This project showcases how to drive four DC motors using an Arduino Uno and an L
 
 <img width="1272" height="432" alt="4 Dc Motor Diagram" src="https://github.com/user-attachments/assets/540fa4e4-49fa-41af-b9f2-6c311df10ffb" />
 
+## Arduino Code 
 
