@@ -6,15 +6,10 @@ This project showcases how to drive four DC motors using an Arduino Uno and an L
 ## Components Used
 
 
-Arduino Uno
-
+ Arduino Uno
  L293D Motor Driver 
- 
  Breadboard
- 
  4 x DC Motors
- 
  9V Battery
- 
  Jumper Wires
 
