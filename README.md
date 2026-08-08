@@ -25,3 +25,7 @@ This project showcases how to drive four DC motors using an Arduino Uno and an L
 
 ## Arduino Code 
 
+You can find the code file at https://github.com/Eng-Hessah/4-DC-Motor--Control-By-L293D/blob/main/4%20Dc%20Motor%20Code.ino
+
+## Project Author 
+Hessah Safar Alharthi
